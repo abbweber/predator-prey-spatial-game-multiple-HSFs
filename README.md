@@ -5,7 +5,7 @@ output:
 ---
 # Weber_predator_prey_spatial_game
 
-Code for "Unveiling the predator prey spatial game using multiple habitat selection functions""
+Code for "Unveiling the predator prey spatial game using multiple habitat selection functions"
 
 ## Updates
 Newer versions or comments regarding this source code may be available, please check [here](https://github.com/abbweber/predator-prey-spatial-game-multiple-HSFs) to ensure you are using the latest version.
@@ -30,9 +30,9 @@ Abigail M. Weber (amw8076@psu.edu)
 
 ## Background
 
-We provide the following R Scripts corresponding to our analyses of predator prey spatial interactions in Illinois, USA. This repository includes all R scripts used for analyses in the manuscript.
+We provide the following R Scripts corresponding to our analyses of predator prey spatial interactions in Illinois, USA. This GitHub [repository](https://github.com/abbweber/predator-prey-spatial-game-multiple-HSFs) includes all R scripts used for analyses in the manuscript. The two data .csv's are stored on Zenodo here. 
 
-Here, we provide scripts for the analysis of data and generation of figures. GPS location data for bobcats, coyotes, and white-tailed female deer are available per reasonable request, please contact Guillaume Bastille-Rousseau (gbr@siu.edu) for more information.
+We include scripts for the analysis of data and generation of figures. GPS location data for bobcats, coyotes, and white-tailed female deer are available per reasonable request, please contact Guillaume Bastille-Rousseau (gbr@siu.edu) for more information.
 
 ## Script names and descriptions
 
@@ -44,7 +44,9 @@ We ran ten global models across spatial buffers for the landscape perspective mo
 
 All data can be found in the folder "data". 
 
-+ Input data file: "data/data_for_HSF_models.csv"
++ Input data file: 
+  + "data/data_for_HSF_models.csv"
+  + "data/data_for_pred_GEE_model.csv"
 + Output data files: 
   + "output/sum_loglikelihood_fawn_models.csv"
   + "output/all_model_coefs_100m_buffer.csv"

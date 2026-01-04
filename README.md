@@ -12,7 +12,7 @@ Newer versions or comments regarding this source code may be available, please c
 
 ## Authors and Affliations
 
-Abigail M. Weber^1,2^; Nicole T. Gorman^1,2^; Michael E. Egan^1,2^; Michael W. Eichholz^1,2^; Peter E. Schlichting^3^; Daniel J. Skinner^3^; Guillaume Bastille-Rousseau^1,2^
+Abigail M. Weber$^{1,2}$; Nicole T. Gorman^1,2^; Michael E. Egan^1,2^; Michael W. Eichholz^1,2^; Peter E. Schlichting^3^; Daniel J. Skinner^3^; Guillaume Bastille-Rousseau^1,2^
 
 ^1^Center for Wildlife Sustainability Research, Southern Illinois University, Carbondale, Illinois, USA
 ^2^School of Biological Sciences, Southern Illinois University, Carbondale, Illinois, USA
@@ -30,7 +30,7 @@ Abigail M. Weber (amw8076@psu.edu)
 
 ## Background
 
-We provide the following R Scripts corresponding to our analyses of predator prey spatial interactions in Illinois, USA. This GitHub [repository](https://github.com/abbweber/predator-prey-spatial-game-multiple-HSFs) includes all R scripts used for analyses in the manuscript. The two data .csv's are stored on Zenodo here. 
+We provide the following R Scripts corresponding to our analyses of predator prey spatial interactions in Illinois, USA. This GitHub [repository](https://github.com/abbweber/predator-prey-spatial-game-multiple-HSFs) includes all R scripts used for analyses in the manuscript. The two data .csv's are stored on Zenodo [here](10.5281/zenodo.18147653). 
 
 We include scripts for the analysis of data and generation of figures. GPS location data for bobcats, coyotes, and white-tailed female deer are available per reasonable request, please contact Guillaume Bastille-Rousseau (gbr@siu.edu) for more information.
 

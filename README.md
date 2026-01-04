@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # Weber_predator_prey_spatial_game
 
 Code for "Unveiling the predator prey spatial game using multiple habitat selection functions"

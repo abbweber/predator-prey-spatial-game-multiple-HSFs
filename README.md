@@ -7,11 +7,11 @@ Newer versions or comments regarding this source code may be available, please c
 
 ## Authors and Affliations
 
-Abigail M. Weber<sup>1,2<sup>; Nicole T. Gorman^1,2^; Michael E. Egan^1,2^; Michael W. Eichholz^1,2^; Peter E. Schlichting^3^; Daniel J. Skinner^3^; Guillaume Bastille-Rousseau^1,2^
+Abigail M. Weber<sup>1,2</sup>; Nicole T. Gorman<sup>1,2</sup>; Michael E. Egan<sup>1,2</sup>; Michael W. Eichholz<sup>1,2</sup>; Peter E. Schlichting<sup>3</sup>; Daniel J. Skinner<sup>3</sup>; Guillaume Bastille-Rousseau<sup>1,2</sup>
 
-^1^Center for Wildlife Sustainability Research, Southern Illinois University, Carbondale, Illinois, USA
-^2^School of Biological Sciences, Southern Illinois University, Carbondale, Illinois, USA
-^3^Illinois Department of Natural Resources, Springfield, Illinois, USA
+<sup>1</sup> Center for Wildlife Sustainability Research, Southern Illinois University, Carbondale, Illinois, USA  
+<sup>2</sup> School of Biological Sciences, Southern Illinois University, Carbondale, Illinois, USA  
+<sup>3</sup> Illinois Department of Natural Resources, Springfield, Illinois, USA
 
 ## Current Affiliations
 

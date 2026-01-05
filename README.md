@@ -25,7 +25,7 @@ Abigail M. Weber (amw8076@psu.edu)
 
 ## Background
 
-We provide the following R Scripts corresponding to our analyses of predator prey spatial interactions in Illinois, USA. This GitHub [repository](https://github.com/abbweber/predator-prey-spatial-game-multiple-HSFs) includes all R scripts used for analyses in the manuscript. The two data .csv's are stored on Zenodo [here](10.5281/zenodo.18147653). 
+We provide the following R Scripts corresponding to our analyses of predator prey spatial interactions in Illinois, USA. This GitHub [repository](https://github.com/abbweber/predator-prey-spatial-game-multiple-HSFs) includes all R scripts used for analyses in the manuscript. The two data .csv's are stored on Zenodo [here](https://doi.org/10.5281/zenodo.18147653). 
 
 We include scripts for the analysis of data and generation of figures. GPS location data for bobcats, coyotes, and white-tailed female deer are available per reasonable request, please contact Guillaume Bastille-Rousseau (gbr@siu.edu) for more information.
 

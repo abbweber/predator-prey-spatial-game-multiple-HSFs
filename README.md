@@ -4,7 +4,7 @@ Code for "Unveiling the predator prey spatial game using multiple habitat select
 
 ## Updates
 Newer versions or comments regarding this source code may be available, please check [![DOI](https://zenodo.org/badge/1127790508.svg)](https://doi.org/10.5281/zenodo.18962790) to ensure you are using the latest version.
-Data needed to run the code is available from Zenodo [here](https://doi.org/10.5281/zenodo.18147653). GPS location data for bobcats, coyotes, and white-tailed female deer are available per reasonable request, please contact Guillaume Bastille-Rousseau (gbr@siu.edu) for more information.
+Data needed to run the code is available from Zenodo [here](https://doi.org/10.5281/zenodo.18147653). GPS location data for bobcats, coyotes, and white-tailed female deer are available per reasonable request, please contact Guillaume Bastille-Rousseau at the Center for Wildlife Sustainability Research at Southern Illinois University (cwrl@siu.edu) for more information.
 
 ## Authors and Affliations
 

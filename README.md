@@ -3,7 +3,8 @@
 Code for "Unveiling the predator prey spatial game using multiple habitat selection functions"
 
 ## Updates
-Newer versions or comments regarding this source code may be available, please check [here](https://github.com/abbweber/predator-prey-spatial-game-multiple-HSFs) to ensure you are using the latest version.
+Newer versions or comments regarding this source code may be available, please check [![DOI](https://zenodo.org/badge/1127790508.svg)](https://doi.org/10.5281/zenodo.18962790) to ensure you are using the latest version.
+Code is also available from Zenodo [here](https://doi.org/10.5281/zenodo.18147653). GPS location data for bobcats, coyotes, and white-tailed female deer are available per reasonable request, please contact Guillaume Bastille-Rousseau (gbr@siu.edu) for more information.
 
 ## Authors and Affliations
 
@@ -21,7 +22,8 @@ Nicole T. Gorman: Department of Fish and Wildlife Conservation, Virginia Tech, B
 
 ## Point of contact: 
 
-Abigail M. Weber (amw8076@psu.edu) 
+Abigail M. Weber (amw8076@psu.edu)
+
 
 ## Background
 

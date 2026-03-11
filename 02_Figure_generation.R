@@ -62,7 +62,7 @@ coefplot <- ggplot(data = subset(data)) +
                                 "Predator perspective", "Predator selection"),
                      values = c("Landscape perspective" = "#7C1D6F",
                                 "Prey perspective" = "#DC3977",
-                                "Predator perspective" = "#F0746E",
+                                "Predator perspective" = "darkorange2",
                                 "Predator selection" = "goldenrod1"),
                      guide = guide_legend(nrow=2, byrow = T)) +
   coord_flip() +
@@ -89,5 +89,6 @@ coefplot <- ggplot(data = subset(data)) +
 plot(coefplot)
 
 # Save the 90% CI plot
-ggsave(filename = "figures/Fig_2.jpg",
-       plot = coefplot, width = 8.38, height = 7, units = "in")
+ggsave(filename = "figures/Fig_2.pdf",
+       plot = coefplot, width = 8.38, height = 7, units = "in",
+       dpi = 600)
